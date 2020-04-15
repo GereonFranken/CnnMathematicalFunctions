@@ -1,0 +1,8 @@
+# Ignore everything ...
+*
+
+# besides:
+!.gitignore
+!data/downloadData.ipynb
+!main.ipynb
+!models/
