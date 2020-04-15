@@ -2,7 +2,7 @@
 *
 
 # besides:
-!.gitignore
-!data/downloadData.ipynb
-!main.ipynb
-!models/
+!*/.gitignore
+!*/data/downloadData.ipynb
+!*/main.ipynb
+!*/models/
